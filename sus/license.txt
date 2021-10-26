@@ -1,0 +1,11 @@
+Model Information:
+* title:	sus
+* source:	https://sketchfab.com/3d-models/sus-6ce7d6eede304b96881b8d011161e90b
+* author:	charfred2004 (https://sketchfab.com/charfred2004)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "sus" (https://sketchfab.com/3d-models/sus-6ce7d6eede304b96881b8d011161e90b) by charfred2004 (https://sketchfab.com/charfred2004) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
